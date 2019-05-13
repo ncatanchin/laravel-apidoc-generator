@@ -55,7 +55,7 @@ The `routes` section is an array of items, describing what routes in your applic
 
 > Note: This package does not work with Closure-based routes. If you want your route to be captured by this package, you need a controller.
 
-Each item in the `routes` array (a route group) has keys which are explained below. We'll use this sample route definition for a Laravel app to demonstarte them:
+Each item in the `routes` array (a route group) has keys which are explained below. We'll use this sample route definition for a Laravel app to demonstrate them:
 
 ```php
 <?php
